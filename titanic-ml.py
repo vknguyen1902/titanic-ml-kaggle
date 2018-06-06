@@ -7,8 +7,6 @@ class(train)
 head(train)
 str(train)
 names(train)
-
-
 summary(train)
 
 #Visualize variables Age and Fare
